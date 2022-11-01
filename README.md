@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tinaponting
-- 👀 I’m interested in: Blogging, runnning and wordpress security.
+- 👀 I’m interested in: Blogging, running and wordpress security.
 - 🌱 I’m currently learning: More aboout SQL.
 - 💞️ I’m looking to collaborate on: I am looner..
 - 📫 How to reach me: https://www.facebook.com/kristina.ponting/

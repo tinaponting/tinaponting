@@ -11,8 +11,9 @@
 tinaponting/tinaponting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Wordpress security     
-Node JS
-Blogging
-Security Wordpress
-Block AI Bots: https://github.com/tinaponting/ai-robots-scrapers
+* Wordpress security     
+* Node JS
+* Blogging
+* Security Wordpress
+
+*Block AI Bots: https://github.com/tinaponting/ai-robots-scrapers

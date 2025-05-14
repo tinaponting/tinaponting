@@ -13,8 +13,8 @@ tinaponting/tinaponting is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 * Wordpress security     
-* Node JS
 * Blogging
 * Security Wordpress
+* AI safeguarding   / AI skydd  / AI-beskyttelse
 
 *Block AI Bots: https://github.com/tinaponting/ai-robots-scrapers

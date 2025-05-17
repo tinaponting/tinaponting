@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://www.facebook.com/kristina.ponting/
 - Or my blogg: https://teskedsgumman.se
 - Or: https://bloggligan.com
-- Neetify: https://kristinaponting.netlify.app/
+- Netify: https://kristinaponting.netlify.app/
 - Racewalking with: IF UDD   https://uddloppet.ifudd.se/
 
 <!---

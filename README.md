@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 * Wordpress security     
 * Blogging
 * Security Wordpress
-* AI safeguarding   / AI skydd  / AI-beskyttelse / Ai Blogg skydd
+* AI safeguarding   / AI skydd  / AI-beskyttelse / Ai blog protection / KI-Blog-Schutz
 
 *Block AI Bots: https://github.com/tinaponting/ai-robots-scrapers
